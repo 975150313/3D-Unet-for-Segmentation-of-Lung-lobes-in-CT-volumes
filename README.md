@@ -12,7 +12,7 @@ scans = 51 .nrrd files of size 256x256x256.
 
 masks = 51 .nrrd files of size 256x256x256.
 
-Orininal size:
+Original size:
 
 ![](/original_img_and_mask.png)
 
