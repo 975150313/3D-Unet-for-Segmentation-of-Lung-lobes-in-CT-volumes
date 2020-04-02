@@ -8,7 +8,7 @@ I uploaded the .py files and a Google Colab notebook where I trained the 3d-Unet
 scans = 51 .nrrd files of size 256x256x256.
 masks = 51 .nrrd files of size 256x256x256.
 
-[](/scan_and_mask.png)
+[](scan_and_mask.png)
 
 # Code:
 
