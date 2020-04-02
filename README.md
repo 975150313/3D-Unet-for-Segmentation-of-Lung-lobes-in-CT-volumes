@@ -24,7 +24,7 @@ Original size:
 
 Patches of size 128x128x128:
 
-![](/scan_and_mask.png)
+![](Images/scan_and_mask.png)
 
 # Code:
 
