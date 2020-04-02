@@ -31,3 +31,7 @@ Patches of size 128x128x128:
 7. Loss and Loss Validation Plots
 8. Comparing predicted segmantation with scans and masks
 9. Future work for improving results
+
+
+
+Keras/TensorFlow API
