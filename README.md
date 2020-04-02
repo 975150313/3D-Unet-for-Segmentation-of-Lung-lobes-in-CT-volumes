@@ -1,6 +1,7 @@
 # 3D-Unet Segmentation of Lung lobes CT volumes
 
 This project aims at predicting segmented images based on CT scans of Lungs (3d volumes).
+
 I uploaded the .py files and a Google Colab notebook where I trained the 3d-Unet model on the free GPU.
 
 # Dataset:
@@ -8,6 +9,7 @@ I uploaded the .py files and a Google Colab notebook where I trained the 3d-Unet
 format = (slices x rows x columns)
 
 scans = 51 .nrrd files of size 256x256x256.
+
 masks = 51 .nrrd files of size 256x256x256.
 
 Orininal size:
