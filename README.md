@@ -14,7 +14,7 @@ masks = 51 .nrrd files of size 256x256x256.
 
 Original size:
 
-![](/original_img_and_mask.png)
+![](/3v2vpv.gif)
 
 Patches of size 128x128x128:
 
