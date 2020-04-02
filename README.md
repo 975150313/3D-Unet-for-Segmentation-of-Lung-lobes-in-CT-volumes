@@ -6,9 +6,9 @@ I uploaded the .py files and a Google Colab notebook where I trained the 3d-Unet
 
 Files:
 
-1. Data3D: Data Preprocessing
+1. Data3D.py: Data Preprocessing
 
-2. 3D U-Net: model design, training, testing and evaluation.
+2. 3D UNet.py: model design, training, testing and evaluation.
 
 # Dataset:
 
