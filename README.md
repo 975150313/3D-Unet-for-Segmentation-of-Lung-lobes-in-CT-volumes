@@ -1,4 +1,4 @@
-# 3D-Unet Segmentation of Lung lobes CT volumes
+# 3D-Unet Segmentation of Lung lobes in CT volumes
 
 This project aims at predicting segmented images based on CT scans of Lungs (3d volumes).
 
@@ -16,7 +16,7 @@ Orininal size:
 
 ![](/original_img_and_mask.png)
 
-Patch of size 128x128x128.
+Patches of size 128x128x128:
 
 ![](/scan_and_mask.png)
 
