@@ -20,7 +20,7 @@ masks = 51 .nrrd files of size 256x256x256.
 
 Original size:
 
-![](/3v2vpv.gif)
+![](Images/Lung Segmentation CT scans.gif)
 
 Patches of size 128x128x128:
 
