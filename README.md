@@ -4,6 +4,12 @@ This project aims at predicting segmented images based on CT scans of Lungs (3d 
 
 I uploaded the .py files and a Google Colab notebook where I trained the 3d-Unet model on the free GPU.
 
+Files:
+
+1. Data3D: Data Preprocessing
+
+2. 3D U-Net: model design, training, testing and evaluation.
+
 # Dataset:
 
 format = (slices x rows x columns)
