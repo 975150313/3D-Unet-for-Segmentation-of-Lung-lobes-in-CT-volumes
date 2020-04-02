@@ -22,12 +22,12 @@ Patches of size 128x128x128:
 
 # Code:
 
-1. Importing files.
-2. Patch Extraction.
+1. Importing files and data preprocessing
+2. Patch Extraction
 3. Model
 4. Training
 5. Cross validation
 6. Testing
 7. Loss and Loss Validation Plots
 8. Comparing predicted segmantation with scans and masks
-9. Future work for improving results.
+9. Future work for improving results
