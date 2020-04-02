@@ -6,10 +6,11 @@ I uploaded the .py files and a Google Colab notebook where I trained the 3d-Unet
 # Dataset:
 
 format = (slices x rows x columns)
+
 scans = 51 .nrrd files of size 256x256x256.
 masks = 51 .nrrd files of size 256x256x256.
 
-Orininal size.
+Orininal size:
 
 ![](/original_img_and_mask.png)
 
